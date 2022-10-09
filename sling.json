@@ -1,0 +1,14 @@
+{
+    "version": "0.86.50",
+    "architecture": {
+        "64bit": {
+            "url": "https://ocral.nyc3.digitaloceanspaces.com/slingdata.io/dist/0.86.50/sling_0.86.50_Windows_x86_64.tar.gz",
+            "bin": [
+                "sling.exe"
+            ],
+            "hash": "e25882756b0a99b054d025596756f12605100ae4bd4627dfec8c6c2fdd38dc1d"
+        }
+    },
+    "homepage": "https:/slingdata.io/en/cli",
+    "description": "Data Integration made simple, from the command line. Extract and load data from popular data sources to destinations with high performance and ease."
+}
