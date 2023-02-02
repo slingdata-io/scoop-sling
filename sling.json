@@ -1,12 +1,12 @@
 {
-    "version": "0.87.35",
+    "version": "0.87.36",
     "architecture": {
         "64bit": {
-            "url": "https://ocral.nyc3.digitaloceanspaces.com/slingdata.io/dist/0.87.35/sling_0.87.35_Windows_x86_64.tar.gz",
+            "url": "https://ocral.nyc3.digitaloceanspaces.com/slingdata.io/dist/0.87.36/sling_0.87.36_Windows_x86_64.tar.gz",
             "bin": [
                 "sling.exe"
             ],
-            "hash": "86a2c9bd339c68b2d4bcb57ca1144da7a44a2d51980a68e4a052098ea11dba83"
+            "hash": "00884fe7b9ba48e2b30c3c54897a091cc5e689a87bb228ab88ee00185d06f823"
         }
     },
     "homepage": "https:/slingdata.io/en/cli",
