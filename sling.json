@@ -1,12 +1,12 @@
 {
-    "version": "1.2.21",
+    "version": "1.2.22",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/slingdata-io/sling-cli/releases/download/v1.2.21/sling_windows_amd64.tar.gz",
+            "url": "https://github.com/slingdata-io/sling-cli/releases/download/v1.2.22/sling_windows_amd64.tar.gz",
             "bin": [
                 "sling.exe"
             ],
-            "hash": "707a396472bdea5c597e971ee4770f0393b358c684b99bf1f6d6190742752db5"
+            "hash": "009c2863f58128818bbb9e2d97150be9cf6f3625b0b992187574922edb081f5b"
         }
     },
     "homepage": "https:/slingdata.io/",
