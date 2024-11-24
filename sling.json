@@ -1,14 +1,14 @@
 {
-    "version": "1.2.22",
+    "version": "1.2.23",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/slingdata-io/sling-cli/releases/download/v1.2.22/sling_windows_amd64.tar.gz",
+            "url": "https://github.com/slingdata-io/sling-cli/releases/download/v1.2.23/sling_windows_amd64.tar.gz",
             "bin": [
                 "sling.exe"
             ],
-            "hash": "009c2863f58128818bbb9e2d97150be9cf6f3625b0b992187574922edb081f5b"
+            "hash": "3d04cf2c4e0104f02874dffd68aac114a2a3fd4b34c7556921f666dc931dadb9"
         }
     },
-    "homepage": "https:/slingdata.io/",
+    "homepage": "https://slingdata.io/",
     "description": "Data Integration made simple, from the command line. Extract and load data from popular data sources to destinations with high performance and ease."
 }
